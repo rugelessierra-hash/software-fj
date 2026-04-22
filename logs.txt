@@ -1,0 +1,11 @@
+2026-04-21 20:49:59.323131 - Error cliente: Datos inválidos del cliente
+2026-04-21 20:49:59.323287 - Reserva confirmada
+2026-04-21 20:49:59.323418 - Reserva confirmada
+2026-04-21 20:49:59.323540 - Reserva confirmada
+2026-04-21 20:49:59.323651 - Reserva confirmada
+2026-04-21 20:49:59.323766 - Reserva confirmada
+2026-04-21 20:49:59.323893 - Reserva confirmada
+2026-04-21 20:49:59.324008 - Reserva confirmada
+2026-04-21 20:49:59.324127 - Reserva confirmada
+2026-04-21 20:49:59.324231 - Reserva confirmada
+2026-04-21 20:49:59.324334 - Reserva confirmada
